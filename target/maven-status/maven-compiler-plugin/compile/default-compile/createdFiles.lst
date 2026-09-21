@@ -1,0 +1,14 @@
+com\malar\MalarMart\controller\RegisterServlet.class
+com\malar\MalarMart\model\Product.class
+com\malar\MalarMart\controller\EditProductServlet.class
+com\malar\MalarMart\util\DatabaseInitializer.class
+com\malar\MalarMart\listener\AppListener.class
+com\malar\MalarMart\dao\ProductDAO.class
+com\malar\MalarMart\controller\AddProductServlet.class
+com\malar\MalarMart\controller\LoginServlet.class
+com\malar\MalarMart\controller\DeleteProductServlet.class
+com\malar\MalarMart\service\UserService.class
+com\malar\MalarMart\dao\UserDAO.class
+com\malar\MalarMart\service\ProductService.class
+com\malar\MalarMart\util\DBConnection.class
+com\malar\MalarMart\model\User.class
