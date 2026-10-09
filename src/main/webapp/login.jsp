@@ -24,4 +24,3 @@
     <a href="register.jsp">Create new account</a>
 
 </body>
-</html>
